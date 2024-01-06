@@ -1,3 +1,5 @@
+/* Static variable vs Instance Variable. */
+
 package shubham;
 
 public class Test {
