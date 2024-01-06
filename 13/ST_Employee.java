@@ -1,3 +1,5 @@
+/* static variable. */
+
 package shubham;
 
 class ST_Employee {
